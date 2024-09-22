@@ -1,0 +1,1 @@
+# plugins-xo-featured-image-tools
